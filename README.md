@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula ao vivo!
  
- Alterção feita remotamente pelo site!
+ Alteração feita remotamente pelo site!
